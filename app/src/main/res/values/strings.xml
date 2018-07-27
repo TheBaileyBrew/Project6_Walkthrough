@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Project6_Walkthrough</string>
+    <string name="no_news_available">You\'ve Got 99 Problems But The News Ain\'t One</string>
+    <string name="please_check_back_later_or_refresh">Check Again Later</string>
+    <string name="no_network_available">You Ain\'t Got Internet Son!!</string>
+    <string name="please_check_network_settings_and_refresh">Pay Your Bill And Get That 3G/WiFi Again ... or Get Off Airplane Mode</string>
+</resources>
